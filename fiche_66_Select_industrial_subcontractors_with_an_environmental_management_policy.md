@@ -3,7 +3,9 @@
 ## Description:
 Identify potential industrial subcontractors that have an environmental management policy in place and that meet the requirements of the product. Create a list of potential subcontractors and contact them to discuss their environmental management policy.
 
-## Exemple:
+Electronic sub-assembly
+
+## Example:
 1. Research potential industrial subcontractors: Utilize online resources such as industry directories and review their websites to identify potential subcontractors that have an environmental management policy in place.
 
 2. Contact potential subcontractors: Contact each potential subcontractor to discuss their environmental management policy and determine if they meet the requirements of the product.
